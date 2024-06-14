@@ -14,17 +14,20 @@ Topics
 ### Daily Chapter Activity (Spatial) 
 |Task | Visualize daily mapping activity of YM chapters |
 |-----|-----------------------------------|
-|Questions |  |
 |Dataset | [Daily Chapter Activity GeoJSON ](https://github.com/youthmappers/YMBKK2024/blob/main/daily_chapter_activity_workshop.geojson) |
-
 
 ### Edits per Country in 2023
 |Task | Compare YM editing to all of OpenStreetMap in 2023 |
 |-----|-----------------------------------|
-|Questions |  |
 |Dataset | [YM Edits per country in 2023](https://github.com/youthmappers/YMBKK2024/blob/main/2023_ym_edits_per_country.csv) / [All Edits per country in 2023](https://github.com/youthmappers/YMBKK2024/blob/main/mappers_per_country_2023.csv) |
 
 ### Understanding Ohsome Dashboard
 |Task | Use dashboard.ohsome.org to interrogate OpenStreetMap|
 |-----|-----------------------------------|
-|Questions | Compare the counts and recency of edits for schools and hospitals between 2 countries. |
+|Questions | Compare the counts and recency of edits for schools and clinics between 2 countries. |
+|Dataset | [ohsome dashboard](https://dashboard.ohsome.org)
+
+### Realtime Stats Dashboard
+|Task | Use stats.now.ohsome.org to investigate `#youthmappers`|
+|-----|-----------------------------------|
+|Dataset | [ohsome stats now](https://stats.now.ohsome.org)
