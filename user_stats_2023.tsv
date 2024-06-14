@@ -1,4 +1,4 @@
-user_id		year	n_edits	n_buildings_created	n_buildings_modified	n_buildings_deleted	delta_buildings
+user_id  username	year	n_edits	n_buildings_created	n_buildings_modified	n_buildings_deleted	delta_buildings
 1770239	Jennings Anderson	2023	1308	216	48	9	207
 2913188	Sawan Shariar	2023	3005	1147	658	450	697
 10858729	ArtzaiPY	2023	6500	2313	2248	600	1713
