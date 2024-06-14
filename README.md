@@ -23,3 +23,8 @@ Topics
 |-----|-----------------------------------|
 |Questions |  |
 |Dataset | [YM Edits per country in 2023](https://github.com/youthmappers/YMBKK2024/blob/main/2023_ym_edits_per_country.csv) / [All Edits per country in 2023](https://github.com/youthmappers/YMBKK2024/blob/main/mappers_per_country_2023.csv) |
+
+### Understanding Ohsome Dashboard
+|Task | Use dashboard.ohsome.org to interrogate OpenStreetMap|
+|-----|-----------------------------------|
+|Questions | Compare the counts and recency of edits for schools and hospitals between 2 countries. |
